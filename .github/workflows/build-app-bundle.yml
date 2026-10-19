@@ -51,7 +51,7 @@ env:
   APP_HOMEPAGE: "https://github.com/wcraytor/earthUI"
   APP_LICENSE: "AGPL (>= 3)"
   APP_MODE: "flat"
-  APP_SUBDIR: "inst/app"
+  APP_SUBDIR: "pkg/inst/app_earth"
   PKG_SUBDIR: "."
   ENTRY_FN: ""
   UI_LIBS: ""
